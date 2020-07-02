@@ -49,9 +49,7 @@ git clone https://github.com/DhruvaG2000/digit_recognizer
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-```
-Refer the given notebook 
-```
+Refer [notebook](https://github.com/DhruvaG2000/digit_recognizer/blob/master/train_and_detect_digits.ipynb) 
 
 
 <!-- RESULTS AND DEMO -->

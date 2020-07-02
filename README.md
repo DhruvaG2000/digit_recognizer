@@ -5,7 +5,6 @@
 
 * [About the Project](#about-the-project)
   * [Tech Stack](#tech-stack)
-  * [File Structure](#file-structure)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -28,18 +27,6 @@ This section should list the technologies you used for this project. Leave any a
 * [OpenCV](https://opencv.org/)
 * [mnist dataset](http://yann.lecun.com/exdb/mnist/)  
 
-### File Structure
-.
-├── 6.jpeg                    # An example of a photo taken from a phone camera
-├── final.png                 # Processed image after resizing 
-├── MNIST_data                # This will be downloaded automatically  
-│   ├── t10k-images-idx3-ubyte.gz
-│   ├── t10k-labels-idx1-ubyte.gz
-│   ├── train-images-idx3-ubyte.gz
-│   └── train-labels-idx1-ubyte.gz
-├── mnist_train_an_test_digits.ipynb    #Notebook to open
-├── README.md
-└── test_img.png                # A test image to see if everythin went OK
 
 <!-- GETTING STARTED -->
 ## Getting Started
